@@ -55,3 +55,7 @@ PROP_TAUNTS["Keep Absolutely Still"]        = "taunts/jurassic_park_keep_absolut
 PROP_TAUNTS["War Room"]                     = "taunts/war_room.wav"
 PROP_TAUNTS["Dont Blink"]                   = "taunts/dont_blink_short.wav"
 PROP_TAUNTS["Dont Blink Long"]              = "taunts/dont_blink.wav"
+PROP_TAUNTS["Nonchalant"]                   = "taunts/nonchalant.wav"
+PROP_TAUNTS["Zelda Find"]                   = "taunts/zelda_find.wav"
+PROP_TAUNTS["Boilin Toilet"]                = "taunts/boilin_toilet.wav"
+PROP_TAUNTS["Dude as Dude"]                 = "taunts/dude_as_dude.wav"
