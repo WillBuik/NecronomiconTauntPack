@@ -7,7 +7,7 @@ Copy-Item "addon/*" "build\necrotaunts" -Recurse | Out-Null
 
 $files = Get-ChildItem taunts
 foreach ($file in $files) {
-    ./sox/sox.exe "$($file.FullName)" -c 1 -r 44100 --norm "build\necrotaunts\sound\taunts\$($file.BaseName).wav"
+    ./sox/sox.exe "$($file.FullName)" -c 1 -r 44100 -b 16 --norm "build\necrotaunts\sound\taunts\$($file.BaseName).wav"
 }
 
 C:\"Program Files (x86)"\Steam\steamapps\common\garrysmod\bin\gmad.exe create -folder "build\necrotaunts" -out "build\necrotaunts.gma"
