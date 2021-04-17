@@ -84,3 +84,6 @@ PROP_TAUNTS["Semper Fidelis Tyrannosaurus"] = "taunts/semper_fidelis_tyrannosaur
 PROP_TAUNTS["Johnny Bravo - I'm Real"]      = "taunts/jb_im_real.wav"
 PROP_TAUNTS["Carmelldownsen"]               = "taunts/carmelldownsen.wav"
 PROP_TAUNTS["I'm Me, He Says"]              = "taunts/im_me_he_says.wav"
+PROP_TAUNTS["Darkness"]                     = "taunts/darkness.wav"
+PROP_TAUNTS["Mickey It's Riku... What"]     = "taunts/mickey_its_riku_what.wav"
+PROP_TAUNTS["Simple and Clean"]             = "taunts/simple_and_clean.wav"
