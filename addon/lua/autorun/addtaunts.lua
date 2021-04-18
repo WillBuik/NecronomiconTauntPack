@@ -87,7 +87,10 @@ PROP_TAUNTS["I'm Me, He Says"]              = "taunts/im_me_he_says.wav"
 PROP_TAUNTS["Darkness"]                     = "taunts/darkness.wav"
 PROP_TAUNTS["Mickey It's Riku... What"]     = "taunts/mickey_its_riku_what.wav"
 PROP_TAUNTS["Simple and Clean"]             = "taunts/simple_and_clean.wav"
-PROP_TAUNTS["I was the Turkey"]             = "i_was_the_turkey.wav"
+PROP_TAUNTS["I was the Turkey"]             = "taunts/i_was_the_turkey.wav"
+PROP_TAUNTS["F in the Chat for Goofy"]      = "taunts/f_in_the_chat_for_goofy.wav"
+PROP_TAUNTS["My Friends are My Power"]      = "taunts/my_friends_are_my_power.wav"
+PROP_TAUNTS["Inspector Gadget"]             = "taunts/inspector_gadget.wav"
 
 -- A gift for Kevin...
 local plymeta = FindMetaTable("Player")
