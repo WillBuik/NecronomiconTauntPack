@@ -88,3 +88,19 @@ PROP_TAUNTS["Darkness"]                     = "taunts/darkness.wav"
 PROP_TAUNTS["Mickey It's Riku... What"]     = "taunts/mickey_its_riku_what.wav"
 PROP_TAUNTS["Simple and Clean"]             = "taunts/simple_and_clean.wav"
 PROP_TAUNTS["I was the Turkey"]             = "i_was_the_turkey.wav"
+
+-- A gift for Kevin...
+local plymeta = FindMetaTable("Player")
+if (plymeta.SetPlayerColorWrapped == nil) then
+    plymeta.SetPlayerColorWrapped = plymeta.SetPlayerColor
+end
+function plymeta:SetPlayerColor(color)
+    local steamID3 = self:AccountID()
+    if (steamID3 == 28456070) then
+        -- Pantone 448 C
+        color = Vector(0.2890625, 0.25390625, 0.1640625)
+    elseif (steamID3 == 36442492) then
+        color = Vector(math.Rand(0, 1), math.Rand(0, 1), math.Rand(0, 1))
+    end
+    self:SetPlayerColorWrapped(color)
+end
