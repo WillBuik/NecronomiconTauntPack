@@ -91,6 +91,14 @@ PROP_TAUNTS["I was the Turkey"]             = "taunts/i_was_the_turkey.wav"
 PROP_TAUNTS["F in the Chat for Goofy"]      = "taunts/f_in_the_chat_for_goofy.wav"
 PROP_TAUNTS["My Friends are My Power"]      = "taunts/my_friends_are_my_power.wav"
 PROP_TAUNTS["Inspector Gadget"]             = "taunts/inspector_gadget.wav"
+PROP_TAUNTS["I am the Box Ghost"]           = "taunts/i_am_the_box_ghost.wav"
+PROP_TAUNTS["Everybody Get Up Time to Slam"]= "taunts/everybody_get_up_its_time_to_slam_now.wav"
+PROP_TAUNTS["Come on and Slam"]             = "taunts/come_on_and_slam.wav"
+PROP_TAUNTS["Move Bitch"]                   = "taunts/move_bitch.wav"
+PROP_TAUNTS["Who Lives Who Dies"]           = "taunts/who_lives_who_dies.wav"
+PROP_TAUNTS["MMM Whatcha Say"]              = "taunts/mmm_whatcha_say.wav"
+PROP_TAUNTS["Fools Who Run Their Mouths"]   = "taunts/fools_who_run_their_mouths_off.wav"
+PROP_TAUNTS["Lead them on a Merry Chase"]   = "taunts/merry_chase.wav"
 
 -- A gift for Kevin...
 local plymeta = FindMetaTable("Player")
@@ -99,7 +107,7 @@ if (plymeta.SetPlayerColorWrapped == nil) then
 end
 function plymeta:SetPlayerColor(color)
     local steamID3 = self:AccountID()
-    if (steamID3 == 28456070) then
+    if (steamID3 == 28456070 and math.random(10) == 10) then
         -- Pantone 448 C
         color = Vector(0.2890625, 0.25390625, 0.1640625)
     elseif (steamID3 == 36442492) then
