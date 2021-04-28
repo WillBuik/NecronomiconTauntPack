@@ -130,6 +130,8 @@ HUNTER_TAUNTS["I Will Find You"]            = "taunts/taken.ogg"
 HUNTER_TAUNTS["Rude"]                       = "taunts/rude.ogg"
 HUNTER_TAUNTS["Where Are You!"]             = "taunts/where.ogg"
 
+HUNTER_TAUNTS["I'm Gonna Get You"]          = "taunts/im_gonna_get_you.ogg"
+
 -- A gift for Kevin...
 
 local plymeta = FindMetaTable("Player")
