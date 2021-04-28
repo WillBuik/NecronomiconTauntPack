@@ -1,7 +1,11 @@
 print("Injecting Necronomicon taunts.")
 
+-- Create taunt tables only if a the gamemode or another pack hasn't already created them.
 if (PROP_TAUNTS == nil) then
-    PROP_TAUNTS = {}
+    PROP_TAUNTS = { }
+end
+if (HUNTER_TAUNTS == nil) then
+    HUNTER_TAUNTS = { }
 end
 
 PROP_TAUNTS["Right Round"]                  = "taunts/rightround.ogg"
