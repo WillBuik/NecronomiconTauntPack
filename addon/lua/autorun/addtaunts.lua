@@ -8,6 +8,13 @@ if (HUNTER_TAUNTS == nil) then
     HUNTER_TAUNTS = { }
 end
 
+-- Prop Taunts
+
+PROP_TAUNTS["I Guarantee it"]               = "taunts/guarantee_it.ogg"
+PROP_TAUNTS["This Is SPARTA!"]              = "taunts/sparta.ogg"
+PROP_TAUNTS["Woohoo!"]                      = "taunts/woohoo.ogg"
+PROP_TAUNTS["Dark Side"]                    = "taunts/you_dont_know_the_power.ogg"
+
 PROP_TAUNTS["Right Round"]                  = "taunts/rightround.ogg"
 PROP_TAUNTS["Tokyo"]                        = "taunts/tokyo.ogg"
 PROP_TAUNTS["Meeseeks"]                     = "taunts/meeseeks.ogg"
@@ -114,8 +121,17 @@ PROP_TAUNTS["Caarrrlll"]                    = "taunts/caarrrlll.ogg"
 PROP_TAUNTS["Killing Is My Least Favorite"] = "taunts/killing_is_my_least_favorite.ogg"
 PROP_TAUNTS["Carl That Kills People"]       = "taunts/carl_that_kills_people.ogg"
 
+-- Hunter Taunts
+
+HUNTER_TAUNTS["Come To Papa"]               = "taunts/come_to_papa.ogg"
+HUNTER_TAUNTS["No Soul"]                    = "taunts/soul.ogg"
+HUNTER_TAUNTS["Jaws Theme"]                 = "taunts/jaws.ogg"
+HUNTER_TAUNTS["I Will Find You"]            = "taunts/taken.ogg"
+HUNTER_TAUNTS["Rude"]                       = "taunts/rude.ogg"
+HUNTER_TAUNTS["Where Are You!"]             = "taunts/where.ogg"
 
 -- A gift for Kevin...
+
 local plymeta = FindMetaTable("Player")
 if (plymeta.SetPlayerColorWrapped == nil) then
     plymeta.SetPlayerColorWrapped = plymeta.SetPlayerColor
