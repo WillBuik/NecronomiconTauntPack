@@ -103,6 +103,17 @@ PROP_TAUNTS["Who Lives Who Dies"]           = "taunts/who_lives_who_dies.ogg"
 PROP_TAUNTS["MMM Whatcha Say"]              = "taunts/mmm_whatcha_say.ogg"
 PROP_TAUNTS["Fools Who Run Their Mouths"]   = "taunts/fools_who_run_their_mouths_off.ogg"
 PROP_TAUNTS["Lead them on a Merry Chase"]   = "taunts/merry_chase.ogg"
+PROP_TAUNTS["Somebody"]                     = "taunts/somebody.ogg"
+PROP_TAUNTS["What! A Llama"]                = "taunts/what_a_llama_hes_supposed_to_be_dead.ogg"
+PROP_TAUNTS["It Was Me Barry"]              = "taunts/it_was_me_barry.ogg"
+PROP_TAUNTS["Standoff - All Along"]         = "taunts/standoff_all_along.ogg"
+PROP_TAUNTS["Standoff - Cat and Mouse Games"] = "taunts/standoff_cat_and_mouse_games.ogg"
+PROP_TAUNTS["Standoff - Not a Gun"]         = "taunts/standoff_not_a_gun.ogg"
+PROP_TAUNTS["Dangerous Sociopath"]          = "taunts/dangerous_sociopath.ogg"
+PROP_TAUNTS["Caarrrlll"]                    = "taunts/caarrrlll.ogg"
+PROP_TAUNTS["Killing Is My Least Favorite"] = "taunts/killing_is_my_least_favorite.ogg"
+PROP_TAUNTS["Carl That Kills People"]       = "taunts/carl_that_kills_people.ogg"
+
 
 -- A gift for Kevin...
 local plymeta = FindMetaTable("Player")
