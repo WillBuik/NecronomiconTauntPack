@@ -120,6 +120,21 @@ PROP_TAUNTS["Dangerous Sociopath"]          = "taunts/dangerous_sociopath.ogg"
 PROP_TAUNTS["Caarrrlll"]                    = "taunts/caarrrlll.ogg"
 PROP_TAUNTS["Killing Is My Least Favorite"] = "taunts/killing_is_my_least_favorite.ogg"
 PROP_TAUNTS["Carl That Kills People"]       = "taunts/carl_that_kills_people.ogg"
+PROP_TAUNTS["Deadly Honeydews"]              = "deadly_honeydews.ogg"
+PROP_TAUNTS["Fruit Don't Talk"]              = "fruit_dont_talk.ogg"
+PROP_TAUNTS["Monster"]                       = "monster.ogg"
+PROP_TAUNTS["OTB Atheists Nightmare"]        = "otb_atheists_nightmare.ogg"
+PROP_TAUNTS["OTB By Chance"]                 = "otb_by_chance.ogg"
+PROP_TAUNTS["OTB By Chance (Long)"]          = "otb_by_chance_long.ogg"
+PROP_TAUNTS["OTB Innuendo"]                  = "otb_innuendo.ogg"
+PROP_TAUNTS["OTB Soda Can"]                  = "otb_soda_can.ogg"
+PROP_TAUNTS["Please Throw Away Your Shot"]   = "please_throw_away_your_shot2a.ogg"
+PROP_TAUNTS["Sexx Luther"]                   = "sexx_luther.ogg"
+PROP_TAUNTS["The Boulder Is Conflicted"]     = "the_boulder_is_conflicted.ogg"
+PROP_TAUNTS["The Boulder Is Over It"]        = "the_boulder_is_over_it.ogg"
+PROP_TAUNTS["The Boulder Takes Issue"]       = "the_boulder_takes_issue.ogg"
+PROP_TAUNTS["Here The Whole Time"]           = "here_the_whole_time.ogg"
+PROP_TAUNTS["You Fight Like A Cow"]          = "you_fight_like_a_cow.ogg"
 
 -- Hunter Taunts
 
@@ -131,6 +146,7 @@ HUNTER_TAUNTS["Rude"]                       = "taunts/rude.ogg"
 HUNTER_TAUNTS["Where Are You!"]             = "taunts/where.ogg"
 
 HUNTER_TAUNTS["I'm Gonna Get You"]          = "taunts/im_gonna_get_you.ogg"
+HUNTER_TAUNTS["Talk You're Gonna Get Shot"] = "if_you_talk_youre_gonna_get_shot.wav"
 
 -- A gift for Kevin...
 
