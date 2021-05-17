@@ -16,4 +16,4 @@ for f in newtaunts.iterdir():
 
         # Print addtaunts.lua code
         displayname = f.stem.replace('_', ' ').title()
-        print(f'PROP_TAUNTS["{displayname}"]'.ljust(44, ' ') + f' = "{f.stem}.ogg"')
+        print(f'PROP_TAUNTS["{displayname}"]'.ljust(43, ' ') + f' = "taunts/{f.stem}.ogg"')
