@@ -135,6 +135,11 @@ PROP_TAUNTS["The Boulder Is Over It"]       = "taunts/the_boulder_is_over_it.ogg
 PROP_TAUNTS["The Boulder Takes Issue"]      = "taunts/the_boulder_takes_issue.ogg"
 PROP_TAUNTS["Here The Whole Time"]          = "taunts/here_the_whole_time.ogg"
 PROP_TAUNTS["You Fight Like A Cow"]         = "taunts/you_fight_like_a_cow.ogg"
+PROP_TAUNTS["Go Ahead Shoot Me"]            = "taunts/go_ahead_shoot_me.ogg"
+PROP_TAUNTS["Hunting Wabbits"]              = "taunts/hunting_wabbits.ogg"
+PROP_TAUNTS["Illusions"]                    = "taunts/illusions.ogg"
+PROP_TAUNTS["Mo' Bitch Imma Cow"]           = "taunts/mo_bitch_imma_cow.ogg"
+PROP_TAUNTS["What Does the Box Say"]        = "taunts/whatdoestheboxsay.ogg"
 
 -- Hunter Taunts
 
