@@ -140,6 +140,10 @@ PROP_TAUNTS["Hunting Wabbits"]              = "taunts/hunting_wabbits.ogg"
 PROP_TAUNTS["Illusions"]                    = "taunts/illusions.ogg"
 PROP_TAUNTS["Mo' Bitch Imma Cow"]           = "taunts/mo_bitch_imma_cow.ogg"
 PROP_TAUNTS["What Does the Box Say"]        = "taunts/whatdoestheboxsay.ogg"
+PROP_TAUNTS["I'm In Danger"]                = "taunts/im_in_danger.ogg"
+PROP_TAUNTS["I've Been Left Behind"]        = "taunts/ive_been_left_behind.ogg"
+PROP_TAUNTS["Rad Thibodeaux"]               = "taunts/rad_thibodeaux.ogg"
+PROP_TAUNTS["You Took Too Long"]            = "taunts/you_took_too_long.ogg"
 
 -- Hunter Taunts
 
@@ -149,7 +153,6 @@ HUNTER_TAUNTS["Jaws Theme"]                 = "taunts/jaws.ogg"
 HUNTER_TAUNTS["I Will Find You"]            = "taunts/taken.ogg"
 HUNTER_TAUNTS["Rude"]                       = "taunts/rude.ogg"
 HUNTER_TAUNTS["Where Are You!"]             = "taunts/where.ogg"
-
 HUNTER_TAUNTS["I'm Gonna Get You"]          = "taunts/im_gonna_get_you.ogg"
 HUNTER_TAUNTS["Talk You're Gonna Get Shot"] = "if_you_talk_youre_gonna_get_shot.wav"
 
