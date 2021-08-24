@@ -144,6 +144,9 @@ PROP_TAUNTS["I'm In Danger"]                = "taunts/im_in_danger.ogg"
 PROP_TAUNTS["I've Been Left Behind"]        = "taunts/ive_been_left_behind.ogg"
 PROP_TAUNTS["Rad Thibodeaux"]               = "taunts/rad_thibodeaux.ogg"
 PROP_TAUNTS["You Took Too Long"]            = "taunts/you_took_too_long.ogg"
+PROP_TAUNTS["I Will Always Want You"]       = "taunts/i_will_always_want_you.ogg"
+PROP_TAUNTS["Smooth Like Butter"]           = "taunts/smooth_like_butter.ogg"
+PROP_TAUNTS["Who Slams Who Jams"]           = "taunts/who_slams_who_jams.ogg"
 
 -- Hunter Taunts
 
