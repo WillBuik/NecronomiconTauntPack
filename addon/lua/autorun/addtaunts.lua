@@ -147,6 +147,7 @@ PROP_TAUNTS["You Took Too Long"]            = "taunts/you_took_too_long.ogg"
 PROP_TAUNTS["I Will Always Want You"]       = "taunts/i_will_always_want_you.ogg"
 PROP_TAUNTS["Smooth Like Butter"]           = "taunts/smooth_like_butter.ogg"
 PROP_TAUNTS["Who Slams Who Jams"]           = "taunts/who_slams_who_jams.ogg"
+PROP_TAUNTS["Hycybh"]                       = "taunts/hycybh.ogg"
 PROP_TAUNTS["Look at this Graph"]           = "taunts/look_at_this_graph.ogg"
 
 -- Hunter Taunts
