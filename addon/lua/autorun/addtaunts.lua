@@ -152,6 +152,13 @@ PROP_TAUNTS["Look at this Graph"]           = "taunts/look_at_this_graph.ogg"
 PROP_TAUNTS["Freaky Ghost Bed"]             = "taunts/freaky_ghost_bed.ogg"
 PROP_TAUNTS["I'm Right Here Detective"]     = "taunts/im_right_here_detective.ogg"
 PROP_TAUNTS["I Was Always There"]           = "taunts/i_was_always_there.ogg"
+PROP_TAUNTS["Bennnchh, It's A Bench"]       = "taunts/bennnchh_its_a_bench.ogg"
+PROP_TAUNTS["Hide From Strangers"]          = "taunts/hide_from_strangers.ogg"
+PROP_TAUNTS["Huge Gamer"]                   = "taunts/huge_gamer.ogg"
+PROP_TAUNTS["It's A Chair"]                 = "taunts/its_a_chair.ogg"
+PROP_TAUNTS["Scientists Are All Perverts"]  = "taunts/scientists_are_all_perverts.ogg"
+PROP_TAUNTS["Unboxing Video"]               = "taunts/unboxing_video.ogg"
+PROP_TAUNTS["What The Darn Thing Is"]       = "taunts/what_the_darn_thing_is.ogg"
 
 -- Hunter Taunts
 
